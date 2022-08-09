@@ -5,10 +5,8 @@ About me
 ---
 
 - Currently finishing up my CompSci BSc (specialization bioinformatics)
-- & doing a summer internship as a software developer at TOPdesk
+- & doing a summer internship as a software developer at TOPdesk (Vue+TS & Java)
 - I :heart: Python (might be Stockholm syndrome)
-- Exploring JS, java
-- Really want to pick up TS, C & Rust
 
 Stats
 ---
