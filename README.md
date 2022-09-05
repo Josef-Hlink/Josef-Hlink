@@ -4,9 +4,10 @@ Welcome to my humble GitHub page
 About me
 ---
 
-- Currently finishing up my CompSci BSc (specialization bioinformatics)
-- & doing a summer internship as a software developer at TOPdesk (Vue+TS & Java)
+- Just finished CompSci BSc (specialization bioinformatics)
+- Currently doing Artificial Intelligence MSc
 - I :heart: Python (might be Stockholm syndrome)
+- Playing around with TS & Rust
 
 Stats
 ---
