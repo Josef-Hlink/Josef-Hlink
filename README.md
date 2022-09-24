@@ -7,7 +7,7 @@ About me
 - Just finished CompSci BSc (specialization bioinformatics)
 - Currently doing Artificial Intelligence MSc
 - I :heart: Python (might be Stockholm syndrome)
-- Playing around with TS & Rust
+- Playing around with AppleScript, Bash & Rust
 
 Stats
 ---
