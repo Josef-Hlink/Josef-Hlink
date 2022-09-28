@@ -4,7 +4,6 @@ Welcome to my humble GitHub page
 About me
 ---
 
-- Just finished CompSci BSc (specialization bioinformatics)
 - Currently doing Artificial Intelligence MSc
 - I :heart: Python (might be Stockholm syndrome)
 - Playing around with AppleScript, Bash & Rust
