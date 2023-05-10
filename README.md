@@ -1,6 +1,4 @@
 hi
 ==
 
-- currently studying Artificial Intelligence at Leiden University
-- I :heart: Python (might be Stockholm syndrome)
-- playing around with AppleScript, Bash & Rust
+i'm pretty decent at making my computer do what i want it to do
